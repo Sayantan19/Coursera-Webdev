@@ -71,7 +71,7 @@ body{
   }
   hr{
     margin: 0px auto !important;
-    background-color: #000000;
+    border: 0.6px solid #000000;
     width: 80%;
   }
 }
