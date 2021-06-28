@@ -1,3 +1,6 @@
+*{
+  font-family: cursive !important;
+}
 body{
   background-color:#fff;
   color: #000;
@@ -47,6 +50,7 @@ body{
   #collapsable-nav a{
     font-size: 2.5vw;
     color: rgb(0, 0, 0);
+    font-family: cursive;
     text-align: center;
   }
   .navbar-header button.navbar-toggle, .navbar-header .icon-bar {
