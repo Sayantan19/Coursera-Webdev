@@ -75,7 +75,7 @@ body{
   }
   hr{
     margin: 0px auto !important;
-    border: 0.6px solid #000000;
+    border: 0.6px solid #000000 !important;
     width: 80%;
   }
 }
